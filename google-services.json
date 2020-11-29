@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "198206344581",
+    "firebase_url": "https://treelife-2ea48.firebaseio.com",
+    "project_id": "treelife-2ea48",
+    "storage_bucket": "treelife-2ea48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198206344581:android:ea1cba842c72489702c8ec",
+        "android_client_info": {
+          "package_name": "com.dotnetcr.pruebaFacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198206344581-9q1agsfig7md1b5cdckjk2tjaop40tqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxh1xU9bpyMcIMl4hH6LzQG_zFpAPKT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198206344581-9q1agsfig7md1b5cdckjk2tjaop40tqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198206344581-lveaave201i06308i6ivkpqs8gcp10ga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.treelife.treelifeapp",
+                "app_store_id": "1497903957"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198206344581:android:106dcc0602e869b102c8ec",
+        "android_client_info": {
+          "package_name": "com.dotnetcr.pruebaFacebook2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198206344581-jsm0lmdqqohj9lt66kdl5hujd91tmtoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dotnetcr.pruebaFacebook2",
+            "certificate_hash": "2af8e92dd3234d5da476d1d4d1f5e8e69573a605"
+          }
+        },
+        {
+          "client_id": "198206344581-9q1agsfig7md1b5cdckjk2tjaop40tqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxh1xU9bpyMcIMl4hH6LzQG_zFpAPKT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198206344581-9q1agsfig7md1b5cdckjk2tjaop40tqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198206344581-lveaave201i06308i6ivkpqs8gcp10ga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.treelife.treelifeapp",
+                "app_store_id": "1497903957"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
